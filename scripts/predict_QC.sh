@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4,5 python train.py config/predict_QC.json

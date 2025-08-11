@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5,6 python train.py config/train_QI_XLMR.json
